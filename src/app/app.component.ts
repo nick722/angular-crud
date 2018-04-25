@@ -8,7 +8,7 @@ import 'rxjs/Rx';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  providers: [UserService]
+  providers: [UserService],
   styleUrls: ['./app.component.css']
 })
 
